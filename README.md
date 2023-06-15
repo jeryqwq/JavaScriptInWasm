@@ -1,5 +1,4 @@
-# JavaScriptInWasm
-compile js in wasm 
+
 # Objective
 To implement a compiler with a syntax similar to JavaScript in Rust that supports compiling to high-performance WebAssembly (Wasm) execution
 
